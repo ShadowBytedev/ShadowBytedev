@@ -1,5 +1,5 @@
 # 💫 About Me:
-Age: 25<br>Sexuality: Demi<br>Pronouns: He/Him<br>Relationship: Single (not looking)<br><br>Skills:<br>- Unity World Developer<br>- Unity Avatar Developer<br>- Discord Bot Developer<br><br>Current clubs where I work:<br>- Owner @ Shadow Byte Development.<br>- Technical Director @ Furality Online Xperience.<br>- Technical Assistant @ Furality Online Xperience.<br>- Technical Director @ Vibe Night.<br>- Technical Assistant @ Vibe Night.<br>- Technical Director @ OtterlyInsane.
+Age: 25<br>Sexuality: Demi<br>Pronouns: He/Him<br>Relationship: Single (not looking)<br><br>Skills:<br>- Unity World Developer<br>- Unity Avatar Developer<br>- Discord Bot Developer<br><br>Currently where I work:<br>- Owner @ Shadow Byte Development.<br>- Technical Director @ Furality Online Xperience.<br>- Technical Assistant @ Furality Online Xperience.<br>- Technical Director @ Vibe Night.<br>- Technical Assistant @ Vibe Night.<br>- Technical Director @ OtterlyInsane.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://shadowhub.dev/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/shadowbytedev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ShadowByteDev1) 
